@@ -1,0 +1,42 @@
+#mapid {
+  height: 480px;
+  width: 1100px;
+  position: relative;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-group {
+  width: 1100px;
+}
+
+.containerMap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+span,
+li {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+button {
+  position: relative;
+  margin-top: 430px;
+  z-index: 1000;
+  padding-left: 10px;
+}
+
+.btns {
+  padding-left: 10px;
+}
